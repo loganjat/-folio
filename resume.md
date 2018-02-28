@@ -1,6 +1,6 @@
 ---
 layout: page
-title: post
+title: resume
 permalink: /resume/
 ---
 ![Resume](loganjat.github.io/images/ "resume.jpg")
