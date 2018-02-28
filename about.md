@@ -17,8 +17,8 @@ ribs brisket swine doner ribeye.
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:loganjtheodore@gmail.com"><i class="fas fa-envelope-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fab fa-linkedin-square"></i></a>
+	<a href="mailto:loganjtheodore@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 </span>
 
 
