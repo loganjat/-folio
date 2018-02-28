@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.png">
+<img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
 Bacon ipsum dolor amet turducken ham hock salami pork pork loin bresaola sausage pig landjaeger jerky frankfurter porchetta beef ribs.
