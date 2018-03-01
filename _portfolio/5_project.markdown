@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: Choice-Mexico
+description: Ethnography
 img: /img/1.jpg
 ---
 
