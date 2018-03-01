@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: PowerSchool
+description: Generative Research
 img: /img/12.JPG
 ---
 
