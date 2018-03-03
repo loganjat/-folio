@@ -6,7 +6,7 @@ img:
 ---
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/alienrescue.png" alt="" title="Alien Rescue Environment"/>
+	<img class="col three" src="{{ site.baseurl }}/img/AlienRescue.png" alt="" title="Alien Rescue Environment"/>
 </div>
 <div class="col three caption">
 	Alien Rescue Environment: Aboard the International Space Station 
