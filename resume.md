@@ -5,7 +5,7 @@ permalink: /resume/
 img:
 ---
 <div>
-![resume](/loganjat.github.io/resume.jpg){:class="img-responsive"}
+![resume]({{ site.baseurl }}/resume.jpg){:class="img-responsive"}
 </div>
 
 
