@@ -26,12 +26,14 @@ Method
 	Myself and a fellow Ethnographer transcribing notes from a semi-structured interview recording. 
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+We began our research with semi-structured interviews administered to one representative of available homes in each community (~30 total). Because the regional leader was wary of our involvement, we used our initial contact with villagers to build rapport with the overall community and learn of the overall impact of the goat cheese businesses. We also interviewed the participants of the program with a set inventory on leadership, business, and culture, as well as questions from the sponsoring organizations evaluation framework. By living in the communities during the week we were able to build strong relationships, observe business operations and gain the confidence of the villagers and regional leader who was pleased by our holistic approach. 
+To validate themes emerging from interview synthesis, we formed focus groups and led participatory research sessions to elicit responses to our identified factors and gain rich insight into village dynamics, operations and mindsets.
+
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/cheese.JPG" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/huarichogroup.JPG" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/donkey.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
