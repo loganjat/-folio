@@ -6,7 +6,7 @@ img: /img/port5.png
 ---
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/focusgroup.png" alt="" title="Focus Groups/FAMA"/>
+	<img class="col three" src="{{ site.baseurl }}/img/focusgroup.JPG" alt="" title="Focus Groups/FAMA"/>
 </div>
 <div class="col three caption">
 	Choice Humanitarian-Mexico: Ethnographic Evaluation 
@@ -20,7 +20,7 @@ Choice Humanitarian is a capacity building organization that seeks to develop sk
 
 Method
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/12.JPR" alt="" title="transcribing interviews"/>
+	<img class="col three" src="{{ site.baseurl }}/img/12.JPG" alt="" title="transcribing interviews"/>
 </div>
 <div class="col three caption">
 	Myself and a fellow Ethnographer transcribing notes from a semi-structured interview recording. 
