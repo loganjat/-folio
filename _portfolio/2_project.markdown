@@ -1,7 +1,7 @@
 ---
 layout: post
-title: PowerSchool
-description: Benchmarking
+title: UX Benchmarking
+description: PowerSchool
 img: 
 ---
 
