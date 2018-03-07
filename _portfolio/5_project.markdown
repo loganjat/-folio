@@ -39,7 +39,7 @@ To validate themes emerging from interview synthesis, and observations we formed
 	Left: Me helping make queso fresco. Middle: Huaricho business leadership after a focus group. Right: Me learning how the water was distributed to goat stables.
 </div>
 
-Results
+Result
 
 At the conclusion of our two month enthnography we reported on the future of the village businesses. Through a throurough report we recommended specific support, and future participatory development in the areas of communication (conflict resolution), business practice and strategy (record keeping and sales), and village mentality (gender, age discrimination and nepotism). 
 
