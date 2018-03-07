@@ -1,7 +1,7 @@
 ---
 layout: post
-title: PowerSchool
-description: Generative Research
+title: Generative Research
+description: PowerSchool
 img: /img/port1.png
 ---
 
