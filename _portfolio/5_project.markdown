@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Choice-Mexico
-description: Ethnography
+title: Ethnography
+description: Choice-Mexico
 img: /img/port5.png
 ---
 
