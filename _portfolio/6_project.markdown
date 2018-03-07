@@ -34,6 +34,6 @@ Research begun with a literature review on social enterprise and venture develop
 
 Result
 
-The evergreen investment project was given $1 Million in funding and plans were delivered to investor client. 
+The evergreen investment project was awarded $1 Million in funding and plans were delivered to the client's organization to carry out. 
 
 
