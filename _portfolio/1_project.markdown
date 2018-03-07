@@ -18,8 +18,8 @@ Problem
 PowerSchool built a unified classroom to be a one-stop platform for teachers, students, parents and schools. After core features were built into the platform, PowerSchool wanted to determine what features to add.
 
 <div class="img_row">
-	  <img class="col one" src="{{ site.baseurl }}/img/stickies.jpg" alt="" title="Missions Tool"/>
-	  <img class="col two" src="{{ site.baseurl }}/img/card1.png" alt="" title="Concepts Tool"/>
+	  <img class="col one" src="{{ site.baseurl }}/img/stickies.jpg" alt="" title="affinity diagramming"/>
+	  <img class="col two" src="{{ site.baseurl }}/img/card1.png" alt="" title="prototypes"/>
 	</div>
 
 
