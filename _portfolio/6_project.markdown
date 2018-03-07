@@ -28,8 +28,8 @@ Research begun with a literature review on social enterprise and venture develop
 
 <div class="img_row">
 	  <img class="col one" src="{{ site.baseurl }}/img/tourism.jpg" alt="" title="Missions Tool"/>
-	  <img class="col two" src="{{ site.baseurl }}/img/search.jpg" alt="" title="Concepts Tool"/>
-	<img class="col three" src="{{ site.baseurl }}/img/fruitbiz.jpg" alt="" title="Concepts Tool"/>
+	  <img class="col one" src="{{ site.baseurl }}/img/search.jpg" alt="" title="Concepts Tool"/>
+	<img class="col one" src="{{ site.baseurl }}/img/fruitbiz.jpg" alt="" title="Concepts Tool"/>
 	</div>
 
 Result
