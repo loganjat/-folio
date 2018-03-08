@@ -5,17 +5,9 @@ description: PowerSchool
 img: 
 ---
 
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/participatory.jpg" alt="" title="Participatory Design"/>
-</div>
-<div class="col three caption">
-	SUS
-</div>
-
-
 Problem
 
-A product team wanted to release an engaging mobile learning game that would encourage 
+A product team wanted to understand which features were needed to build an engaging mobile learning game. 
 
 <div class="img_row">
 	  <img class="col one" src="{{ site.baseurl }}/img/school.jpg" alt="" title="affinity diagramming"/>
@@ -25,13 +17,9 @@ A product team wanted to release an engaging mobile learning game that would enc
 
 Method
 
-I established and tested an engagement metric to establish a baseline and goal. 
+I implemented a system usability scale and built an engagement instrument to establish a baseline score for each. I worked with the product team to set a goal SUS and engagement score and phases for desired incremental improvements. After several experiments recruiting our target demographic we identified a good process with a healthy response rate and low cost. I started testing game builds in phases using combination of remote unmoderated and in-person moderated testing. I introduced the Kano model to identify priority game features ranked by importance.
 
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/theme.png" alt="themes" title="themes"/>
-</div>
 
 Result
 
-We presented the research and concept validation performed and communicated PowerSchool's opportunity to deliver a much needed experience for teachers and administrators. The product was prioritized for development set to be available at the subsequent platform release. Impressed with the research and design method, executives proposed that all future products follow a similar process.  
-
+Incremental testing guided by benchmarks allowed the team to dedicate resources to critical core elements, and focus remaining time to develop desired gamified features. 
