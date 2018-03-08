@@ -9,7 +9,7 @@ img: /img/port1.png
 	<img class="col three" src="{{ site.baseurl }}/img/participatory.jpg" alt="" title="Participatory Design"/>
 </div>
 <div class="col three caption">
-	Generative Research
+	Participatory Design
 </div>
 
 
