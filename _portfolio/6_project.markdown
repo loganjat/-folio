@@ -9,7 +9,7 @@ img: /img/port6.png
 	<img class="col three" src="{{ site.baseurl }}/img/evergreen.jpg" alt="" title="Evergreen Fund"/>
 </div>
 <div class="col three caption">
-	Evergreen Impact Investment: Concepting and Designing and Investment Service
+	Evergreen Impact Investment: Concepting and Designing an Investment Service
 </div>
 
 
