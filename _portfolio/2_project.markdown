@@ -4,14 +4,21 @@ title: UX Benchmarking
 description: PowerSchool
 img: 
 ---
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/engagementscore.png" alt="" title="System Usability Score"/>
+</div>
+<div class="col three caption">
+	Engagement Score
+</div>
+
 
 Problem
 
 A product team wanted to understand which features were needed to build an engaging mobile learning game. 
 
 <div class="img_row">
-	  <img class="col one" src="{{ site.baseurl }}/img/school.jpg" alt="" title="affinity diagramming"/>
-	  <img class="col two" src="{{ site.baseurl }}/img/kids.jpg" alt="" title="prototypes"/>
+	  <img class="col one" src="{{ site.baseurl }}/img/school.jpg" alt="" title="in-person feedback"/>
+	  <img class="col two" src="{{ site.baseurl }}/img/example@2x.png" alt="" title="SUS"/>
 	</div>
 
 
