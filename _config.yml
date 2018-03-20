@@ -13,6 +13,9 @@ markdown: kramdown
 
 highlighter: rouge
 
+#Google Analytics
+google_analytics: "UA-74583833-1"
+
 # Pagination
 paginate: 15
 paginate_path: "/about/page:num/"
