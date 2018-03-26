@@ -2,7 +2,7 @@
 layout: post
 title: Generative Research
 description: PowerSchool
-img: /img/port6.png
+img: /img/port4.png
 ---
 
 <div class="img_row">
