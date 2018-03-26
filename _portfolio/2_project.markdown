@@ -2,7 +2,7 @@
 layout: post
 title: UX Benchmarking
 description: PowerSchool
-img: 
+img: /img/port1.png
 ---
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/engagementscore.png" alt="" title="System Usability Score"/>
