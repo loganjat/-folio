@@ -17,7 +17,7 @@ Problem
 A product team wanted to understand which features were needed to build an engaging mobile learning game. 
 
 <div class="img_row">
-	  <img class="col one" src="{{ site.baseurl }}/img/school.jpg" alt="" title="in-person feedback"/>
+	  <img class="col one" src="{{ site.baseurl }}/img/PORTFOLIO COPY@2x.png" alt="" title="kano"/>
 	  <img class="col two" src="{{ site.baseurl }}/img/example@2x.png" alt="" title="SUS"/>
 	</div>
 
