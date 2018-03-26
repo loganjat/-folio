@@ -2,7 +2,7 @@
 layout: post
 title: Evidenced-Based Design
 description: Alien Rescue
-img: /img/port4.png
+img: 
 ---
 
 <div class="img_row">
