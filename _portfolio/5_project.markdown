@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Ethnography
-description: Choice-Mexico
-img: 
+
 ---
 
 <div class="img_row">
