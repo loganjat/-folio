@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Evaluative Research
-description: PowerSchool
-img: 
 ---
 
 Problem
