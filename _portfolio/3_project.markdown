@@ -5,7 +5,7 @@ title: Evaluative Research
 
 Problem
 
-In my roles as Researcher at Prudential and PowerSchool the burden of concept validation, usability and customer feedback sense making rested with product managers. In each case I was hired to build on a newly adopted research initiative and establish a deeper understanding of current and developing product utility. 
+In my role as Researcher at Prudential and PowerSchool the burden of concept validation, usability and customer feedback sense making rested with product managers. In each case I was hired to build on a newly adopted research initiative and establish a deeper understanding of current and developing product utility. 
 
 <div class="img_row">
 	  <img class="col one" src="{{ site.baseurl }}/img/usertest.png" alt="" title="usertesting"/>
