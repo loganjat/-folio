@@ -30,6 +30,7 @@ $blue: #2698BA;
 $green: #11D68B;
 $lime_green: #B7D12A;
 $purple: #B509AC;
+$white: #FFFFFF;
 
 
 $grey-color-dark: #333;   /* footer */
@@ -136,6 +137,7 @@ a {
 }
 
 article a {
+    color: $white;
     font-weight: 100;
 
     &:hover {
