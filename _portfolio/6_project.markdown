@@ -2,7 +2,7 @@
 layout: post
 title: Interviewing and Concept Generation
 description: Surgefront
-img: /img/port6.png
+img: 
 ---
 
 <div class="img_row">
