@@ -14,12 +14,12 @@ title: Evidenced-Based Design
 
 Problem
 
-Alien Rescue, a 3D problem based learning evironment, built by graduate students at The University of Texas at Austin needed an update. As a research tool for effective problem based learning the Learning Technologies program needed to build it on a stack that would allow for more nimble changes from year to year.  
+Alien Rescue, a 3D problem based learning evironment built by graduate students at The University of Texas at Austin, needed an update. As a research tool for effective problem based learning the Learning Technologies program needed to build it on a stack that would allow for more nimble changes from year to year.  
 
 
 Method
 
-Along with a team of graduate students assuming roles of developers and instructional, graphics and UX designers, I worked to propose redesigns to the Concepts and Missions database tools. Previous designs of both tools required students to tab through pages of material in order to access information critical to solving problems, where they could lose context and experience unecessary cognitive load. Based on student personas and a thourough examination of their mental models I built functional protoypes for both tools. 
+Along with a team of graduate students assuming roles of developers and instructional, graphics and UX designers, I worked to propose redesigns to the Concepts and Missions database tools. Previous designs of both tools required students to tab through pages of material in order to access information critical to solving problems, where they could lose context and experience unecessary cognitive load. Based on student personas and a thorough examination of their mental models I built functional protoypes for both tools. 
 
 
 Result
