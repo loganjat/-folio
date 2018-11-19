@@ -5,12 +5,16 @@ title: Evaluative Research
 
 Problem
 
-At PowerSchool the burden of concept validation, usability and customer feedback sense making rested with product managers. I was hired to build a research process and establish a deeper understanding of our customers and utility of current and developing products. 
+In my roles as Researcher at Prudential and PowerSchool the burden of concept validation, usability and customer feedback sense making rested with product managers. In each case I was hired to build on a newly adopted research process and establish a deeper understanding current and developing product utility. 
 
+<div class="img_row">
+	  <img class="col one" src="{{ site.baseurl }}/img/usertest.png" alt="" title="usertesting"/>
+	  <img class="col two" src="{{ site.baseurl }}/img/prulab.png" alt="" title="lab"/>
+	</div>
 
 Method
 
-I provided timely research insights with behavioral evidence from user participants in the form of video, audio or images. 
+By conducting lab moderated testing and unmoderated testing I provided timely research insights with behavioral evidence from user participants in the form of video, audio or images. 
 
 
 Result
