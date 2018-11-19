@@ -2,7 +2,7 @@
 layout: post
 title: Ethnography
 description: Choice-Mexico
-img: /img/port5.png
+img: 
 ---
 
 <div class="img_row">
