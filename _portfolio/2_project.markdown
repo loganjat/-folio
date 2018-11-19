@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UX Benchmarking
+title:UX Benchmarking
 ---
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/engagementscore.png" alt="" title="System Usability Score"/>
