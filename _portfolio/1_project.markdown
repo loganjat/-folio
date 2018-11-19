@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Generative Research
-description: PowerSchool
-img: 
 ---
 
 <div class="img_row">
