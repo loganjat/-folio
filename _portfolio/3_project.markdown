@@ -2,7 +2,7 @@
 layout: post
 title: Evaluative Research
 description: PowerSchool
-img: /img/port3.png
+img: 
 ---
 
 Problem
