@@ -17,9 +17,9 @@ In my role as Researcher at Prudential and PowerSchool the burden of concept val
 
 Method
 
-Through user testing, lab moderated testing or unmoderated via online tools, I provided timely research insights with behavioral evidence from user participants in the form of video, audio or images. 
+Through user testing, lab moderated testing or unmoderated testing via online tools, I provided timely research insights with behavioral evidence from user participants in the form of video, audio or images. 
 
 
 Result
 
-Product teams incorporated evaluative research in the product development lifecycle. In general research was involved in earlier stages of product lifecytle and research was conducted across a greater number of products. Overall many findings were incorporated to improve product utility, and promote further generative and exploratory testing.
+Product teams incorporated evaluative research in the product development lifecycle. In general research started occurring in earlier stages of product lifecytle and across a greater number of products. Overall many findings were incorporated to improve product utility, and promote further generative and exploratory testing.
