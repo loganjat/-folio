@@ -14,7 +14,7 @@ title: Ethnography
 
 Problem
 
-Choice Humanitarian is a capacity building organization that seeks to develop skills and leadership in the villages it supports. Two of their supported villages in rural Mexico had been recieving support through a goat loan program for over 8 years. An infusion of $250,000.00 (USD) via a grant sought by villagers to build goat cheese factories brought increased scrutiny and concern for the villages dependency on Choice and it's regional leadership. My team of 3 ethnographic evaluators was tasked with determining the greatest factors in its dependency and potential for future self-sustainability. 
+Choice Humanitarian is a capacity building organization that seeks to develop skills and leadership in the villages it supports. Two of their supported villages in rural Mexico had been receiving support through a goat loan program for over 8 years. An infusion of $250,000.00 (USD) via a grant sought by villagers to build goat cheese factories brought increased scrutiny and concern for the villages dependency on Choice and it's regional leadership. My team of 3 ethnographic evaluators was tasked with determining the greatest factors in its dependency and potential for future self-sustainability. 
 
 
 Method
@@ -40,5 +40,7 @@ To validate themes emerging from interview synthesis, and observations we formed
 
 Result
 
-At the conclusion of our two month enthnography we reported on the future of the village businesses. Through a throurough report we recommended specific support, and future participatory development in the areas of communication (conflict resolution), business practice and strategy (record keeping and sales), and village mentality (gender, age discrimination and nepotism). 
+At the conclusion of our two month ethnography we reported on the future of the village businesses. Through a thorough report we 
+
+ommended specific support, and future participatory development in the areas of communication (conflict resolution), business practice and strategy (record keeping and sales), and village mentality (gender, age discrimination and nepotism). 
 
