@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Participatory Design
+title: Generative Research
 ---
 
 <div class="img_row">
