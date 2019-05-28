@@ -40,7 +40,5 @@ To validate themes emerging from interview synthesis, and observations we formed
 
 Result
 
-At the conclusion of our two month ethnography we reported on the future of the village businesses. Through a thorough report we 
-
-ommended specific support, and future participatory development in the areas of communication (conflict resolution), business practice and strategy (record keeping and sales), and village mentality (gender, age discrimination and nepotism). 
+At the conclusion of our two month ethnography we reported on the future of the village businesses. Through a thorough report we recommended specific support, and future participatory development in the areas of communication (conflict resolution), business practice and strategy (record keeping and sales), and village mentality (gender, age discrimination and nepotism). 
 
