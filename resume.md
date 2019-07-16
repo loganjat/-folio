@@ -6,4 +6,4 @@ img:
 ---
 
 
-[Resume PDF](https://drive.google.com/file/d/1CwxkPksLeYgdWLJeoti50a42usg381FB/view?usp=sharing)
+[Resume PDF](https://drive.google.com/file/d/1W2ZDIENPivuiUpqET794j6-sUPbJCFhS/view?usp=sharing)
